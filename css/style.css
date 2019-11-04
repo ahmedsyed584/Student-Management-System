@@ -1,0 +1,41 @@
+.bg
+{
+	background-color: yellow;
+}
+.header 
+{
+	background-color: black;
+	color: white;
+	text-align: center;
+	margin-left: 30px;
+	margin-right: 30px;
+	height: 140px;
+	line-height: 140px;
+}
+.logout
+{
+	margin-right: 30px;
+	font-size: 25px;
+	text-decoration: none;
+	color: white;
+}
+
+.addstd
+{
+	margin-right: 30px;
+	font-size: 25px;
+	text-decoration: none;
+	color: white;
+}
+
+.options
+{
+	background-color: #42f5f2;
+	color: black;
+	/*text-align: center;*/
+	margin-left: 30px;
+	margin-right: 30px;
+	height: 140px;
+/*	line-height: 140px;*/
+}
+
